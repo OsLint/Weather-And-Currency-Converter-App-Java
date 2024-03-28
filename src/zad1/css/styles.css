@@ -1,0 +1,58 @@
+.root {
+    -fx-background-color: #f0f0f0;
+}
+
+
+.tool-bar {
+    -fx-background-color: #e0e0e0;
+    -fx-padding: 10px;
+}
+
+
+.label {
+    -fx-font-size: 14px;
+}
+
+
+.text-field {
+    -fx-font-size: 14px;
+    -fx-pref-width: 150px;
+}
+
+.combo-box {
+    -fx-font-size: 14px;
+    -fx-pref-width: 150px;
+}
+
+
+.button {
+    -fx-font-size: 14px;
+    -fx-pref-width: 100px;
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+}
+
+
+.combo-box-popup {
+    -fx-background-color: #f0f0f0;
+}
+
+
+.list-view {
+    -fx-font-size: 14px;
+}
+
+
+.scroll-pane {
+    -fx-background-color: transparent;
+}
+
+
+.web-view {
+    -fx-background-color: white;
+}
+
+
+.border-pane {
+    -fx-background-color: white;
+}
